@@ -154,7 +154,7 @@ s0.parentNode.insertBefore(s1,s0);
 							</div>
 							<div class="col-10">
 								<h6>address</h6>
-								<p>DSI Labz | Adyar Mangalore</p>
+								<p>Pillai HOC College of Engineering & Technology</p>
 							</div>
 						</div>
 					</div>
@@ -203,7 +203,7 @@ s0.parentNode.insertBefore(s1,s0);
 	<!-- //contact -->
 	<!-- copyright -->
 	<div class="cpy-right text-center">
-		<p>© 2018 Musical World. All rights reserved</p>
+		<p>© 2022 Musical World. All rights reserved</p>
 	</div>
 	<!-- //copyright -->
 
